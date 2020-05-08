@@ -7,5 +7,7 @@
     <file url="file://$PROJECT_DIR$/dubbo-interface/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo_consumer_boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo_provider_boot/src/main/java" charset="UTF-8" />
   </component>
 </project>

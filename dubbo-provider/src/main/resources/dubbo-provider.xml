@@ -8,7 +8,7 @@
     <!-- 定义协议端口-->
     <dubbo:protocol port="28800" />
     <!-- 定义注册中心的地址-->
-    <dubbo:registry protocol="zookeeper" address="192.168.42.135:2181"/>
+    <dubbo:registry protocol="zookeeper" address="192.168.42.136:2181"/>
 
     <!-- 定义服务的提供者-->
     <bean id = "userService" class="com.wzz.service.impl.UserServiceImpl" />
